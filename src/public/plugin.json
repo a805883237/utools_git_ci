@@ -1,0 +1,17 @@
+{
+  "pluginName": "git ci",
+  "main": "index.html",
+  "version": "0.0.1",
+  "author": "andd",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "commit",
+      "explain": "新建、编辑或获取快捷命令",
+      "cmds": [
+        "ci",
+        "commit"
+      ]
+    }
+  ]
+}
